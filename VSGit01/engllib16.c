@@ -1,4 +1,7 @@
 //
+//...........
+
+
 #define _CRT_SECURE_NO_WARNINGS  //   ?? подробнее об предупреждениях ??
 #define TOKENDEBUG nodebug
 //#define ALPHABET ok
